@@ -7,6 +7,7 @@
 #include <iostream>
 using namespace std;
 
+int main()
 {
     char init[] = "This is init";
     char add[] = "added now";
